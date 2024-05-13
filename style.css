@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', sans-serif;
+}
+
+:root {
+    --main-background: #1e293b;
+    --text-color: #e2e8f0
+}
+
+body {
+    background: var(--main-background);
+    color: var(--text-color);
+}
